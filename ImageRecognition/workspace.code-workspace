@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\Programming\\C++"
+		},
+		{
+			"path": "..\\..\\Programming\\Web Development"
+		},
+		{
+			"path": "..\\..\\Programming\\Python"
+		},
+		{
+			"path": "..\\..\\Programming\\GitLearning"
+		},
+		{
+			"path": "..\\..\\Programming\\C#"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"ostream": "cpp"
+		}
+	}
+}
